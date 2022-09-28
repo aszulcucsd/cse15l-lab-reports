@@ -7,6 +7,7 @@ Heading 2
 * List this that
 
 __Bold__
+__Extra Gum__
 _Italic_
 
 [Link that works](http://www.youtube.com)
