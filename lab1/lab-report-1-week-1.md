@@ -1,4 +1,5 @@
-[[Week1LabReport.pdf]]
+![](lab1\Lab1pg1.PNG?raw=true)
+![](lab1\Lab1pg1.PNG)
 
 [[lab1\Lab1pg1.PNG]]
 [[lab1\Lab1pg2.PNG]]
