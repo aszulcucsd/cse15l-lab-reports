@@ -1,6 +1,4 @@
-![](lab1\Lab1pg1.PNG?raw=true)
-![](lab1\Lab1pg1.PNG)
-![](Lab1pg1.PNG?raw=true)
+
 ![](Lab1pg1.PNG)
 
 [[lab1\Lab1pg1.PNG]]
