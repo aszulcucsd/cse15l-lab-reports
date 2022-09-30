@@ -1,10 +1,10 @@
 
-![](Lab1pg1.PNG)
+![](Week1LabReport.pdf)
 
-[[lab1\Lab1pg1.PNG]]
-[[lab1\Lab1pg2.PNG]]
-[[lab1\Lab1pg3.PNG]]
-[[lab1\Lab1pg4.PNG]]
-[[lab1\Lab1pg5.PNG]]
-[[lab1\Lab1pg6.PNG]]
-[[lab1\Lab1pg7.PNG]]
+![](Lab1pg1.PNG)
+![](Lab1pg2.PNG)
+![](Lab1pg3.PNG)
+![](Lab1pg4.PNG)
+![](Lab1pg5.PNG)
+![](Lab1pg6.PNG)
+![](Lab1pg7.PNG)
