@@ -1,6 +1,11 @@
-[Lab Report 1](lab-report-1-week-0.html)
-[Lab Report 1](https://aszulcucsd.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+[Lab Report 1](lab0/lab-report-1-week-0.html)
+[Lab Report 1](https://aszulcucsd.github.io/cse15l-lab-reports/lab0/lab-report-1-week-0.html)
 [Lab Report 1_week_1](https://aszulcucsd.github.io/cse15l-lab-reports/lab1/lab-report-1-week-1.html)
+[Lab Report 2_week_2](https://aszulcucsd.github.io/cse15l-lab-reports/lab2/lab-report-2-week-2.html)
+
+
+
+Part of Lab 0 requirements:
 
 *Hello* **cse 15L**
 
