@@ -1,5 +1,7 @@
 
 [Download PDF for week 1](Week1LabReport.pdf)
+ [embed]Week1LabReport.pdf[/embed]
+
 
 ![](Lab1pg1.PNG)
 ![](Lab1pg2.PNG)
