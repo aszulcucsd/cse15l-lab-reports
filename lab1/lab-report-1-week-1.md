@@ -1,5 +1,5 @@
 
-[Download PDF](Week1LabReport.pdf.zip)
+[Download PDF for week 1](Week1LabReport.pdf)
 
 ![](Lab1pg1.PNG)
 ![](Lab1pg2.PNG)
